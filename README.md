@@ -4,6 +4,9 @@
   <img alt="OrcaSlicer logo" src="resources/images/OrcaSlicer.png" width="15%" height="15%">
 </picture>
 
+# This repository is a copy
+Go at [FULU Foundation's repo](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) for a more up-to-date version
+
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
 You are not limited to LAN only.  
